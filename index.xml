@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shore Suite</title>
-    <link>https://example.com/</link>
+    <link>/</link>
     <description>Recent content on Shore Suite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Dec 2018 10:21:59 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alerts</title>
-      <link>https://example.com/components/alerts/</link>
+      <link>/components/alerts/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/alerts/</guid>
+      <guid>/components/alerts/</guid>
       <description>×  Success Alert  ×  Information Alert  ×  Error/Danger Alert  Examples ×  Booking was successfuly created!  ×  This guest has a previous booking. Click here to view bookings.  ×  Oops! Seems like you don&#39;t have internet connection. Try submitting again.  </description>
     </item>
     
     <item>
       <title>Buttons &amp; Links</title>
-      <link>https://example.com/components/buttons-and-links/</link>
+      <link>/components/buttons-and-links/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/buttons-and-links/</guid>
+      <guid>/components/buttons-and-links/</guid>
       <description>Primary Button
 Primary Button  Danger Button
 Danger Button Secondary Button
@@ -38,46 +38,46 @@ https://www.shoresuite.com/ </description>
     
     <item>
       <title>Controls</title>
-      <link>https://example.com/components/controls/</link>
+      <link>/components/controls/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/controls/</guid>
+      <guid>/components/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datawells</title>
-      <link>https://example.com/components/datawells/</link>
+      <link>/components/datawells/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/datawells/</guid>
+      <guid>/components/datawells/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Error &amp; Empty States</title>
-      <link>https://example.com/components/error-and-empty-states/</link>
+      <link>/components/error-and-empty-states/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/error-and-empty-states/</guid>
+      <guid>/components/error-and-empty-states/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expandable Sections</title>
-      <link>https://example.com/components/expandable-sections/</link>
+      <link>/components/expandable-sections/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/expandable-sections/</guid>
+      <guid>/components/expandable-sections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Icons</title>
-      <link>https://example.com/icons/</link>
+      <link>/icons/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/icons/</guid>
+      <guid>/icons/</guid>
       <description>calendar-alt
  calendar-plus
  chart-bar
@@ -103,10 +103,10 @@ https://www.shoresuite.com/ </description>
     
     <item>
       <title>Input Fields</title>
-      <link>https://example.com/components/input-fields/</link>
+      <link>/components/input-fields/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/input-fields/</guid>
+      <guid>/components/input-fields/</guid>
       <description>This is a error message!   Read Only
 Password Input
 Textarea
@@ -115,19 +115,19 @@ The quick brown fox jumps over the lazy dog.. Forms First Name  Last Name   Emai
     
     <item>
       <title>Modals &amp; Containers</title>
-      <link>https://example.com/components/modals-and-containers/</link>
+      <link>/components/modals-and-containers/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/modals-and-containers/</guid>
+      <guid>/components/modals-and-containers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Navigations</title>
-      <link>https://example.com/components/navigations/</link>
+      <link>/components/navigations/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/navigations/</guid>
+      <guid>/components/navigations/</guid>
       <description> Tab  Arrivals  
 Departures 
 Waitlisted 
@@ -136,46 +136,46 @@ Cancelled     Pagination First Previous 1 2 3 4 5 6 Next Last  Navbar  </descrip
     
     <item>
       <title>Page Layouts</title>
-      <link>https://example.com/components/page-layouts/</link>
+      <link>/components/page-layouts/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/page-layouts/</guid>
+      <guid>/components/page-layouts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tables</title>
-      <link>https://example.com/components/tables/</link>
+      <link>/components/tables/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/tables/</guid>
+      <guid>/components/tables/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Tags &amp; Labels</title>
-      <link>https://example.com/components/tags-and-labels/</link>
+      <link>/components/tags-and-labels/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/tags-and-labels/</guid>
+      <guid>/components/tags-and-labels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tooltips &amp; Popovers</title>
-      <link>https://example.com/components/tooltips-and-popovers/</link>
+      <link>/components/tooltips-and-popovers/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/components/tooltips-and-popovers/</guid>
+      <guid>/components/tooltips-and-popovers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://example.com/typography/</link>
+      <link>/typography/</link>
       <pubDate>Wed, 05 Dec 2018 10:21:59 +0800</pubDate>
       
-      <guid>https://example.com/typography/</guid>
+      <guid>/typography/</guid>
       <description>i{ color:#318989; }  Lato Lato can save as many spaces to provide more details and data to the system. 12px The quick brown fox jumps over the lazy dog.
 14px The quick brown fox jumps over the lazy dog.
 16px The quick brown fox jumps over the lazy dog.
@@ -185,10 +185,10 @@ Cancelled     Pagination First Previous 1 2 3 4 5 6 Next Last  Navbar  </descrip
     
     <item>
       <title>Colors</title>
-      <link>https://example.com/colors/</link>
+      <link>/colors/</link>
       <pubDate>Wed, 05 Dec 2018 09:50:29 +0800</pubDate>
       
-      <guid>https://example.com/colors/</guid>
+      <guid>/colors/</guid>
       <description>Primary   Blue Chill   #318989
 $color-blue-chill   Shade   Blue Chill - Darkest   #174040
 $color-blue-chill-darkest   Shade   Blue Chill - Darker   #205959

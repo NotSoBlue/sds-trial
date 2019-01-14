@@ -3,104 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/components/alerts/</loc>
+    <loc>/components/alerts/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/buttons-and-links/</loc>
+    <loc>/components/buttons-and-links/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/controls/</loc>
+    <loc>/components/controls/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/datawells/</loc>
+    <loc>/components/datawells/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/error-and-empty-states/</loc>
+    <loc>/components/error-and-empty-states/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/expandable-sections/</loc>
+    <loc>/components/expandable-sections/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/icons/</loc>
+    <loc>/icons/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/input-fields/</loc>
+    <loc>/components/input-fields/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/modals-and-containers/</loc>
+    <loc>/components/modals-and-containers/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/navigations/</loc>
+    <loc>/components/navigations/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/page-layouts/</loc>
+    <loc>/components/page-layouts/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/tables/</loc>
+    <loc>/components/tables/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/tags-and-labels/</loc>
+    <loc>/components/tags-and-labels/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/components/tooltips-and-popovers/</loc>
+    <loc>/components/tooltips-and-popovers/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/typography/</loc>
+    <loc>/typography/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/colors/</loc>
+    <loc>/colors/</loc>
     <lastmod>2018-12-05T09:50:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/components/</loc>
+    <loc>/components/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2018-12-05T10:21:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
