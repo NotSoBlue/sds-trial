@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/components/alerts/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/buttons-and-links/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/controls/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/datawells/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/error-and-empty-states/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/expandable-sections/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/icons/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/input-fields/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/modals-and-containers/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/navigations/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/page-layouts/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/tables/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/tags-and-labels/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/tooltips-and-popovers/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/typography/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/colors/</loc>
+    <lastmod>2018-12-05T09:50:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/components/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2018-12-05T10:21:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
